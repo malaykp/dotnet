@@ -1,0 +1,14 @@
+E:\Tutorials\dotnet\loggingservice\bin\Debug\netcoreapp2.1\loggingservice.deps.json
+E:\Tutorials\dotnet\loggingservice\bin\Debug\netcoreapp2.1\loggingservice.runtimeconfig.json
+E:\Tutorials\dotnet\loggingservice\bin\Debug\netcoreapp2.1\loggingservice.runtimeconfig.dev.json
+E:\Tutorials\dotnet\loggingservice\bin\Debug\netcoreapp2.1\loggingservice.dll
+E:\Tutorials\dotnet\loggingservice\bin\Debug\netcoreapp2.1\loggingservice.pdb
+E:\Tutorials\dotnet\loggingservice\obj\Debug\netcoreapp2.1\loggingservice.csprojAssemblyReference.cache
+E:\Tutorials\dotnet\loggingservice\obj\Debug\netcoreapp2.1\loggingservice.csproj.CoreCompileInputs.cache
+E:\Tutorials\dotnet\loggingservice\obj\Debug\netcoreapp2.1\loggingservice.RazorAssemblyInfo.cache
+E:\Tutorials\dotnet\loggingservice\obj\Debug\netcoreapp2.1\loggingservice.RazorAssemblyInfo.cs
+E:\Tutorials\dotnet\loggingservice\obj\Debug\netcoreapp2.1\loggingservice.AssemblyInfoInputs.cache
+E:\Tutorials\dotnet\loggingservice\obj\Debug\netcoreapp2.1\loggingservice.AssemblyInfo.cs
+E:\Tutorials\dotnet\loggingservice\obj\Debug\netcoreapp2.1\loggingservice.RazorTargetAssemblyInfo.cache
+E:\Tutorials\dotnet\loggingservice\obj\Debug\netcoreapp2.1\loggingservice.dll
+E:\Tutorials\dotnet\loggingservice\obj\Debug\netcoreapp2.1\loggingservice.pdb

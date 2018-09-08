@@ -1,0 +1,11 @@
+E:\Tutorials\dotnet\xplatformconsole\bin\Debug\netcoreapp2.1\xplatformconsole.deps.json
+E:\Tutorials\dotnet\xplatformconsole\bin\Debug\netcoreapp2.1\xplatformconsole.runtimeconfig.json
+E:\Tutorials\dotnet\xplatformconsole\bin\Debug\netcoreapp2.1\xplatformconsole.runtimeconfig.dev.json
+E:\Tutorials\dotnet\xplatformconsole\bin\Debug\netcoreapp2.1\xplatformconsole.dll
+E:\Tutorials\dotnet\xplatformconsole\bin\Debug\netcoreapp2.1\xplatformconsole.pdb
+E:\Tutorials\dotnet\xplatformconsole\obj\Debug\netcoreapp2.1\xplatformconsole.csprojAssemblyReference.cache
+E:\Tutorials\dotnet\xplatformconsole\obj\Debug\netcoreapp2.1\xplatformconsole.csproj.CoreCompileInputs.cache
+E:\Tutorials\dotnet\xplatformconsole\obj\Debug\netcoreapp2.1\xplatformconsole.AssemblyInfoInputs.cache
+E:\Tutorials\dotnet\xplatformconsole\obj\Debug\netcoreapp2.1\xplatformconsole.AssemblyInfo.cs
+E:\Tutorials\dotnet\xplatformconsole\obj\Debug\netcoreapp2.1\xplatformconsole.dll
+E:\Tutorials\dotnet\xplatformconsole\obj\Debug\netcoreapp2.1\xplatformconsole.pdb
